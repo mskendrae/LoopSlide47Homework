@@ -1,0 +1,6 @@
+c:\users\msken\documents\visual studio 2015\Projects\LoopSlide47Homework\LoopSlide47Homework\bin\Debug\LoopSlide47Homework.exe.config
+C:\Users\msken\Documents\Visual Studio 2015\Projects\LoopSlide47Homework\LoopSlide47Homework\bin\Debug\LoopSlide47Homework.exe
+C:\Users\msken\Documents\Visual Studio 2015\Projects\LoopSlide47Homework\LoopSlide47Homework\bin\Debug\LoopSlide47Homework.pdb
+C:\Users\msken\Documents\Visual Studio 2015\Projects\LoopSlide47Homework\LoopSlide47Homework\obj\Debug\LoopSlide47Homework.csprojResolveAssemblyReference.cache
+C:\Users\msken\Documents\Visual Studio 2015\Projects\LoopSlide47Homework\LoopSlide47Homework\obj\Debug\LoopSlide47Homework.exe
+C:\Users\msken\Documents\Visual Studio 2015\Projects\LoopSlide47Homework\LoopSlide47Homework\obj\Debug\LoopSlide47Homework.pdb
